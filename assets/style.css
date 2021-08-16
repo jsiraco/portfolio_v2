@@ -22,16 +22,12 @@ h2.caption {
 div.card {
     margin: 5px;
     padding: 5px;
-    /* background-color: var(--success); */
+    background-color: var(--success);
 }
 
 header.card-header {
     background-color: var(--success);
 }
-
-/* figure.image:hover {
-    color: var(--success);
-} */
 
 p.subtitle {
     font-size: 18px;
