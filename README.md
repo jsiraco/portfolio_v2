@@ -16,9 +16,9 @@ This work is protected under the MIT License: (https://opensource.org/licenses/M
 ## Usage
 
 A live site can be found here:
-#### https://jsiraco.github.io/portfolio_v2/
+#### https://jsiraco.github.io/portfolio_v3/
 The repository can be found here:
-#### https://github.com/jsiraco/portfolio_v2
+#### https://github.com/jsiraco/portfolio_v3/
 
 ### Screenshots
 ![Portfolio_v2_screenshot](https://user-images.githubusercontent.com/83827081/129622003-14a13b7b-ff2f-408d-b1e1-738b3200ca80.png)
